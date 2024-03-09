@@ -2,7 +2,9 @@
 
 public class Dog
 {
-
+  //Attributes Of Class
+  String name;
+  
   int a;
 
   int b;
